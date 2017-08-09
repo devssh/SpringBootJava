@@ -1,0 +1,74 @@
+2017-08-09 18:32:31.915 INFO  Version -HV000001: Hibernate Validator 5.4.1.Final
+2017-08-09 18:32:36.664 INFO  SpringInitializrGradleJavaApplication -Starting SpringInitializrGradleJavaApplication on IN-CHNI-Devashish.local with PID 60549 (/Users/devashishsood/GithubTest/spring-initializr-gradle-java/build/classes/main started by devashishsood in /Users/devashishsood/GithubTest/spring-initializr-gradle-java)
+2017-08-09 18:32:36.665 INFO  SpringInitializrGradleJavaApplication -No active profile set, falling back to default profiles: default
+2017-08-09 18:32:36.700 INFO  AnnotationConfigServletWebServerApplicationContext -Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@3ce1e309: startup date [Wed Aug 09 18:32:36 IST 2017]; root of context hierarchy
+2017-08-09 18:32:37.139 INFO  AutowiredAnnotationBeanPostProcessor -JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-09 18:32:37.438 INFO  TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2017-08-09 18:32:37.448 INFO  StandardService -Starting service [Tomcat]
+2017-08-09 18:32:37.449 INFO  StandardEngine -Starting Servlet Engine: Apache Tomcat/8.5.16
+2017-08-09 18:32:37.559 INFO  [/] -Initializing Spring embedded WebApplicationContext
+2017-08-09 18:32:37.559 INFO  ContextLoader -Root WebApplicationContext: initialization completed in 859 ms
+2017-08-09 18:32:37.599 INFO  FilterRegistrationBean -Mapping filter: 'characterEncodingFilter' to: [/*]
+2017-08-09 18:32:37.841 INFO  AnnotationMBeanExporter -Registering beans for JMX exposure on startup
+2017-08-09 18:32:37.858 INFO  Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2017-08-09 18:32:37.869 INFO  Http11NioProtocol -Starting ProtocolHandler ["http-nio-8080"]
+2017-08-09 18:32:37.888 INFO  NioSelectorPool -Using a shared selector for servlet write/read
+2017-08-09 18:32:37.903 INFO  TomcatWebServer -Tomcat started on port(s): 8080 (http)
+2017-08-09 18:32:37.906 INFO  SpringInitializrGradleJavaApplication -Started SpringInitializrGradleJavaApplication in 16.669 seconds (JVM running for 16.974)
+2017-08-09 18:34:58.369 INFO  AnnotationConfigServletWebServerApplicationContext -Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@3ce1e309: startup date [Wed Aug 09 18:32:36 IST 2017]; root of context hierarchy
+2017-08-09 18:34:58.371 INFO  AnnotationMBeanExporter -Unregistering JMX-exposed beans on shutdown
+2017-08-09 18:35:05.917 INFO  Version -HV000001: Hibernate Validator 5.4.1.Final
+2017-08-09 18:35:10.668 INFO  SpringInitializrGradleJavaApplication -Starting SpringInitializrGradleJavaApplication on IN-CHNI-Devashish.local with PID 60701 (/Users/devashishsood/GithubTest/spring-initializr-gradle-java/build/classes/main started by devashishsood in /Users/devashishsood/GithubTest/spring-initializr-gradle-java)
+2017-08-09 18:35:10.670 INFO  SpringInitializrGradleJavaApplication -No active profile set, falling back to default profiles: default
+2017-08-09 18:35:10.707 INFO  AnnotationConfigServletWebServerApplicationContext -Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@3ce1e309: startup date [Wed Aug 09 18:35:10 IST 2017]; root of context hierarchy
+2017-08-09 18:35:11.143 INFO  AutowiredAnnotationBeanPostProcessor -JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-09 18:35:11.467 INFO  TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2017-08-09 18:35:11.480 INFO  StandardService -Starting service [Tomcat]
+2017-08-09 18:35:11.481 INFO  StandardEngine -Starting Servlet Engine: Apache Tomcat/8.5.16
+2017-08-09 18:35:11.591 INFO  [/] -Initializing Spring embedded WebApplicationContext
+2017-08-09 18:35:11.591 INFO  ContextLoader -Root WebApplicationContext: initialization completed in 884 ms
+2017-08-09 18:35:11.634 INFO  FilterRegistrationBean -Mapping filter: 'characterEncodingFilter' to: [/*]
+2017-08-09 18:35:11.878 INFO  AnnotationMBeanExporter -Registering beans for JMX exposure on startup
+2017-08-09 18:35:11.892 INFO  Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2017-08-09 18:35:11.901 INFO  Http11NioProtocol -Starting ProtocolHandler ["http-nio-8080"]
+2017-08-09 18:35:11.917 INFO  NioSelectorPool -Using a shared selector for servlet write/read
+2017-08-09 18:35:11.933 INFO  TomcatWebServer -Tomcat started on port(s): 8080 (http)
+2017-08-09 18:35:11.936 INFO  SpringInitializrGradleJavaApplication -Started SpringInitializrGradleJavaApplication in 16.698 seconds (JVM running for 17.028)
+2017-08-09 18:36:13.437 INFO  AnnotationConfigServletWebServerApplicationContext -Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@3ce1e309: startup date [Wed Aug 09 18:35:10 IST 2017]; root of context hierarchy
+2017-08-09 18:36:13.439 INFO  AnnotationMBeanExporter -Unregistering JMX-exposed beans on shutdown
+2017-08-09 18:36:39.082 INFO  Version -HV000001: Hibernate Validator 5.4.1.Final
+2017-08-09 18:36:43.817 INFO  SpringInitializrGradleJavaApplication -Starting SpringInitializrGradleJavaApplication on IN-CHNI-Devashish.local with PID 60835 (/Users/devashishsood/GithubTest/spring-initializr-gradle-java/build/libs/spring-initializr-gradle-java-0.0.1-SNAPSHOT.jar started by devashishsood in /Users/devashishsood/GithubTest/spring-initializr-gradle-java)
+2017-08-09 18:36:43.818 INFO  SpringInitializrGradleJavaApplication -No active profile set, falling back to default profiles: default
+2017-08-09 18:36:43.865 INFO  AnnotationConfigServletWebServerApplicationContext -Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@233c0b17: startup date [Wed Aug 09 18:36:43 IST 2017]; root of context hierarchy
+2017-08-09 18:36:44.404 INFO  AutowiredAnnotationBeanPostProcessor -JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-09 18:36:44.779 INFO  TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2017-08-09 18:36:44.794 INFO  StandardService -Starting service [Tomcat]
+2017-08-09 18:36:44.795 INFO  StandardEngine -Starting Servlet Engine: Apache Tomcat/8.5.16
+2017-08-09 18:36:44.868 INFO  [/] -Initializing Spring embedded WebApplicationContext
+2017-08-09 18:36:44.869 INFO  ContextLoader -Root WebApplicationContext: initialization completed in 1003 ms
+2017-08-09 18:36:44.914 INFO  FilterRegistrationBean -Mapping filter: 'characterEncodingFilter' to: [/*]
+2017-08-09 18:36:45.227 INFO  AnnotationMBeanExporter -Registering beans for JMX exposure on startup
+2017-08-09 18:36:45.245 INFO  Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2017-08-09 18:36:45.257 INFO  Http11NioProtocol -Starting ProtocolHandler ["http-nio-8080"]
+2017-08-09 18:36:45.274 INFO  NioSelectorPool -Using a shared selector for servlet write/read
+2017-08-09 18:36:45.291 INFO  TomcatWebServer -Tomcat started on port(s): 8080 (http)
+2017-08-09 18:36:45.296 INFO  SpringInitializrGradleJavaApplication -Started SpringInitializrGradleJavaApplication in 16.967 seconds (JVM running for 17.389)
+2017-08-09 18:37:17.536 INFO  AnnotationConfigServletWebServerApplicationContext -Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@233c0b17: startup date [Wed Aug 09 18:36:43 IST 2017]; root of context hierarchy
+2017-08-09 18:37:17.538 INFO  AnnotationMBeanExporter -Unregistering JMX-exposed beans on shutdown
+2017-08-09 18:37:30.435 INFO  Version -HV000001: Hibernate Validator 5.4.1.Final
+2017-08-09 18:37:35.136 INFO  SpringInitializrGradleJavaApplication -Starting SpringInitializrGradleJavaApplication on IN-CHNI-Devashish.local with PID 60863 (/Users/devashishsood/GithubTest/spring-initializr-gradle-java/build/libs/spring-initializr-gradle-java-0.0.1-SNAPSHOT.jar started by devashishsood in /Users/devashishsood/GithubTest/spring-initializr-gradle-java)
+2017-08-09 18:37:35.137 INFO  SpringInitializrGradleJavaApplication -No active profile set, falling back to default profiles: default
+2017-08-09 18:37:35.181 INFO  AnnotationConfigServletWebServerApplicationContext -Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@233c0b17: startup date [Wed Aug 09 18:37:35 IST 2017]; root of context hierarchy
+2017-08-09 18:37:35.706 INFO  AutowiredAnnotationBeanPostProcessor -JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-09 18:37:36.088 INFO  TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2017-08-09 18:37:36.104 INFO  StandardService -Starting service [Tomcat]
+2017-08-09 18:37:36.106 INFO  StandardEngine -Starting Servlet Engine: Apache Tomcat/8.5.16
+2017-08-09 18:37:36.196 INFO  [/] -Initializing Spring embedded WebApplicationContext
+2017-08-09 18:37:36.196 INFO  ContextLoader -Root WebApplicationContext: initialization completed in 1015 ms
+2017-08-09 18:37:36.245 INFO  FilterRegistrationBean -Mapping filter: 'characterEncodingFilter' to: [/*]
+2017-08-09 18:37:36.572 INFO  AnnotationMBeanExporter -Registering beans for JMX exposure on startup
+2017-08-09 18:37:36.591 INFO  Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2017-08-09 18:37:36.601 INFO  Http11NioProtocol -Starting ProtocolHandler ["http-nio-8080"]
+2017-08-09 18:37:36.621 INFO  NioSelectorPool -Using a shared selector for servlet write/read
+2017-08-09 18:37:36.643 INFO  TomcatWebServer -Tomcat started on port(s): 8080 (http)
+2017-08-09 18:37:36.647 INFO  SpringInitializrGradleJavaApplication -Started SpringInitializrGradleJavaApplication in 17.545 seconds (JVM running for 18.212)
